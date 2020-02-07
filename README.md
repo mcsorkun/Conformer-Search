@@ -15,7 +15,7 @@ Workflow consists of the following steps:
 Requirements
 - RDKit
 
-Disclaimer/Warning from RDKit: Conformation generation is a difficult and subtle task. The original 2D->3D conversion provided with the RDKit was not intended to be a replacement for a “real” conformational analysis tool; it merely provides quick 3D structures for cases when they are required. We believe, however, that the newer ETKDG method[#riniker2]_ should be adequate for most purposes.
+Disclaimer/Warning from RDKit: Conformation generation is a difficult and subtle task. The original 2D->3D conversion provided with the RDKit was not intended to be a replacement for a “real” conformational analysis tool; it merely provides quick 3D structures for cases when they are required. We believe, however, that the newer ETKDG method[1] should be adequate for most purposes.
 
 Note: It is recommended to use MMFF94 for organic-like molecules and UFF for metal contained molecules.
 
