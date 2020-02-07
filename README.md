@@ -1,5 +1,5 @@
 # Conformer Search
-Conformers are different configurations of a molecule (same formula and connections) by rotating the single bonds. 
+Conformers are different configurations of a molecule (same formula and connections) obtained by rotating the single bonds. 
 
 This repository contains a simple workflow for minimum energy conformer search based on force field optimization methods (UFF and MMFF94) available from RDKit.
 
