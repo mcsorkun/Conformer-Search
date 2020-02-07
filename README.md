@@ -10,7 +10,7 @@ Workflow consists of the following steps:
 - Optimiza conformers by force field optimization (UFF and MMFF94)
 - Select the minimum energy conformer and write it into a SDF file
 
-![alt text](https://raw.githubusercontent.com/mcsorkun/Conformer-Search/blob/master/conformer-search.png)
+![alt text](https://raw.githubusercontent.com/mcsorkun/Conformer-Search/master/conformer-search.png)
 
 Requirements
 - RDKit
