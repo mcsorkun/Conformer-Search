@@ -20,6 +20,7 @@ Disclaimer/Warning from RDKit: Conformation generation is a difficult and subtle
 Note: It is recommended to use MMFF94 for organic-like molecules and UFF for metal contained molecules.
 
 
-References:
+References
+
 [1] Riniker, S.; Landrum, G. A. (2015). Better Informed Distance Geometry: Using What We Know To Improve Conformation Generation J. Chem. Inf. Comp. Sci. 55:2562-74.
-[2] Ebejer, J. P., Morris, G. M., & Deane, C. M. (2012). Freely available conformer generation methods: how good are they?. Journal of chemical information and modeling, 52(5), 1146-1158.
+
