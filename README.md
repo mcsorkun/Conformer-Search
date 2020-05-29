@@ -7,7 +7,7 @@ Workflow consists of the following steps:
 
 - Import molecule from SMILES
 - Generate conformers for given molecule
-- Optimiza conformers by force field optimization (UFF and MMFF94)
+- Optimize conformers by force field optimization (UFF and MMFF94)
 - Select the minimum energy conformer and write it into a SDF file
 
 ![alt text](https://raw.githubusercontent.com/mcsorkun/Conformer-Search/master/conformer-search.png)
